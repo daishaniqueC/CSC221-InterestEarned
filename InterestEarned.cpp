@@ -30,7 +30,7 @@ int main ()
 
     cout << endl;
     cout << "Savings Account Report" << endl;
-    cout << left << setw(20) << "Interest Rate:" << annualInterestRate << " %" << endl;
+    cout << left << setw(20) << "Interest Rate:" << annualInterestRate << "%" << endl;
     cout << left << setw(20) << "Times Compounded:" << timesCompounded << endl;
     cout << left << setw(20) << "Principal:" << "$" << principalBalance << endl;
     cout << left << setw(20) << "Interest Earned:" << "$" << interestEarned << endl;
