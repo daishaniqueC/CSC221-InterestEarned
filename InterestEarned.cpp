@@ -1,4 +1,4 @@
-// This program calculates the final savings balance and intrest earned after one year.
+// This program calculates the final savings balance and interest earned after one year.
 
 #include <iostream>
 #include <cmath>
